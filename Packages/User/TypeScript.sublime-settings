@@ -1,4 +1,5 @@
 {
     "tab_size": 4,
-    "use_tab_stops": true
+    "use_tab_stops": true,
+    "auto_complete_api_completions_only": true
 }

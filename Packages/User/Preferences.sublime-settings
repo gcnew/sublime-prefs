@@ -6,7 +6,8 @@
 	"detect_indentation": false,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 11.5,
+	"fold_buttons": false,
+	"font_size": 13,
 	"highlight_find_results_in_scrollbar": false,
 	"ignored_packages":
 	[
@@ -24,8 +25,7 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"typescript_auto_format": false,
-	"typescript_tsdk": "/Users/mmarinov/.nvm/versions/node/v16.11.1/lib/node_modules/typescript/lib",
+	// "typescript_tsdk": "/Users/mmarinov/.nvm/versions/node/v16.11.1/lib/node_modules/typescript/lib",
 	"update_check": false,
-	"word_wrap": false,
-    "fold_buttons": false
+	"word_wrap": false
 }

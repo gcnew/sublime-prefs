@@ -7,5 +7,9 @@
 	[
 		"Package Control",
 		"TypeScript"
-	]
+	],
+    "auto_upgrade": false,
+    "auto_upgrade_ignore": [
+        "TypeScript"
+    ]
 }
